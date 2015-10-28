@@ -1,6 +1,9 @@
 # cf-docker
 ## Getting Started on Pushing Docker Images to CF
-### Here is a cheat sheet on how to do it.
+
+Diego can run Docker images. Refer to the Diego design notes https://github.com/cloudfoundry-incubator/diego-design-notes/blob/master/docker-support.md
+
+### Here is a cheat sheet on how to run them
 
 * First Install the Docker Toolbox on you Mac.
 https://docs.docker.com/mac/step_one/
