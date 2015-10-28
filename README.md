@@ -5,7 +5,7 @@ Diego can run Docker images. Refer to the Diego design notes https://github.com/
 
 ### Here is a cheat sheet on how to run them
 
-* First Install the Docker Toolbox on you Mac.
+* First Install the Docker Toolbox on your Mac.
 https://docs.docker.com/mac/step_one/
 * Start the Docker Terminal from your Launchpad. This will start the docker virtual machine.
 ```script
@@ -46,7 +46,7 @@ $docker push rjain15/centos-node-hello
 ```script
 $docker pull rjain15/centos-node-hello
 ```
-* Get the IP Address of you local Docker VM
+* Get the IP Address of your local Docker VM
 ```script
 $docker-machine ls
 NAME      ACTIVE   DRIVER       STATE     URL                         SWARM
