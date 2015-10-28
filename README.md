@@ -17,7 +17,7 @@ TEST
 ```script
   $docker login
 ```
-You Authentication credentials will be stored in  `~/.docker/config.json`
+Your Authentication credentials will be stored in  `~/.docker/config.json`
 
 * Search and Pull an Image
 ```script
