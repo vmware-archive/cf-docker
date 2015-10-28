@@ -32,6 +32,7 @@ https://hub.docker.com/
 
 * Create a Docker File and Build a Docker Image
 [Docker Nodejs Example](https://docs.docker.com/examples/nodejs_web_app/)
+Alternatively, clone this repo and it has the Dockerfile, manifest.yml, index.js you need to build and run the docker container. 
 
 ```script
 $docker build -t rjain15/centos-node-hello .
